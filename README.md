@@ -5,13 +5,13 @@ I’ve developed a Power BI dashboard to analyze and validate cancellation trend
 
 ## Visualizations Highlighted:
 
-Line Charts:
+#### Line Charts:
 ADR trends over time to investigate its impact on cancellations.
 Cancellation trends over time to identify recurring patterns.
-Pie Charts:
+#### Pie Charts:
 Overall cancellation split between City and Resort Hotels.
 Cancellations from the top 5 countries, revealing regional differences.
-Column Chart:
+#### Column Chart:
 Cancellation distribution across market segments, identifying high-risk categories.
 Clustered Column Chart:
 A comparative view of cancellations by lead time and meal type, showcasing how these factors interact.
