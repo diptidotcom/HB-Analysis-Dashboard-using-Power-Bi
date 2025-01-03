@@ -15,7 +15,7 @@ Cancellations from the top 5 countries, revealing regional differences.
 Cancellation distribution across market segments, identifying high-risk categories.
 #### Clustered Column Chart:
 A comparative view of cancellations by lead time and meal type, showcasing how these factors interact.
-Bar Chart:
+#### Bar Chart:
 Cancellations based on lead time to understand the role of early and last-minute bookings.
 
 ## Objective:
